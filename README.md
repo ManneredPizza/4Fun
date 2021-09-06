@@ -6,3 +6,4 @@ Here I'm gonna upload all the projects that I made just for fun, nothing serious
 | Orari | 01/2021 | A very easy code to subtract minutes from a precise time, probably not the best way |
 | Binomial | 02/2021 | Coding from the base the binomial distibution of an event |
 | Bet Game | 08/2021 | Trying to estimate the best deal between two games |
+| GyroAccelerometer | 09/2021 | Getting data from a gyro-accelerometer (GA) and bulding a code such that the movement made by the GA are replicated by a digital object |
