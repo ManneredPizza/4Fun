@@ -19,4 +19,4 @@ for point in cartesian_np:
     else:
         points.set_data(point[0], point[1])
     t += 1
-    plt.pause(0.1)
+    plt.pause(0.01)
