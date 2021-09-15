@@ -7,3 +7,4 @@ Here I'm gonna upload all the projects that I made just for fun, nothing serious
 | Binomial | 02/2021 | Coding from the base the binomial distibution of an event |
 | Bet Game | 08/2021 | Trying to estimate the best deal between two games |
 | GyroAccelerometer | 09/2021 | Getting data from a gyro-accelerometer (GA) and bulding a code such that the movement made by the GA are replicated by a digital object |
+| Poly-C | 09/2021 | I wrote some code in C to manage sums and multiplications of polys wrote on the terminal |
