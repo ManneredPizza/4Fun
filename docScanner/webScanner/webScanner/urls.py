@@ -19,5 +19,6 @@ from homepage import views
 
 urlpatterns = [
     path('', views.index, name="Homepage"),
-    path('streamCamera', views.streamCamera, name="streamCamera")
+    path('streamCamera', views.streamCamera, name="streamCamera"),
+    path('streamCameraFull', views.streamCameraFull, name="streamCameraFull")
 ]

@@ -5,7 +5,10 @@
     <body>
         <h1>Camera</h1>
         <div>
-            <img src="{% url 'streamCamera' %}?filter={{filter}}">
+            <img src="{% url 'streamCamera' %}">
+        </div>
+        <div>
+            <img src="{% url 'streamCameraFull' %}">
         </div>
     </body>
 </html>
